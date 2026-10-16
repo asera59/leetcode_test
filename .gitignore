@@ -1,0 +1,29 @@
+# Visual Studio 构建产物与缓存
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.recipe
+*.log
+*.tlog
+*.lastbuildstate
+*.suo
+*.vsidx
+*.opendb
+
+# Visual Studio 本地用户设置
+*.vcxproj.user
+*.user
+
+# 临时文件
+*.tmp
+*.bak
+
+# Agent 工作记录（非代码）
+workbuddy/.workbuddy-ai/
